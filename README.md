@@ -1,5 +1,5 @@
-XrayR添加rulelist文件
-wget https://raw.githubusercontent.com/idkwhoops/Rulelist4XrayR/main/rulelist.yml -O /etc/XrayR/rulelist
+<br>XrayR添加rulelist文件</br>
+<br>wget https://raw.githubusercontent.com/idkwhoops/Rulelist4XrayR/main/rulelist.yml -O /etc/XrayR/rulelist</br>
 
-Soga添加rulelist文件
-wget https://raw.githubusercontent.com/idkwhoops/Rulelist4XrayR/main/rulelist.yml -O /etc/soga/blockList
+<br>Soga添加rulelist文件</br>
+<br>wget https://raw.githubusercontent.com/idkwhoops/Rulelist4XrayR/main/rulelist.yml -O /etc/soga/blockList</br>
